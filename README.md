@@ -2,7 +2,7 @@
 Samples of code I have written for data analysis and visualization
 
 **CA_fire_visualization.ipynb**
-Jupyter notebook with example code using numpy, pandas, and matplotlib
+<br/>Jupyter notebook with example code using numpy, pandas, and matplotlib
 <br/>Data files needed to run
 -----------------------------
 <br/>Human_caused_acres.txt
